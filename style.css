@@ -1,0 +1,149 @@
+body{
+    background: linear-gradient(to bottom, #ff00ff 0%, #66ccff 100%);
+    color:#22221F;
+    text-align: center;
+    margin: 0;
+    align-content: center;
+}
+header{
+    position: sticky;
+    top: 0;
+    background: white;
+    padding-bottom: 0.5vw;
+}
+section{
+    max-width: 100%;
+    border-radius: 5px;
+}
+h1{
+    color: black;
+    font-size: 5vw;
+    text-align: center;
+    font-family: "Stalinist One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+}
+h2{
+    color: black;
+    font-size: 3vw;
+    text-align: center;
+    font-family: "Syne Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+h3{
+    color: black;
+    font-size: 2vw;
+    text-align: center;
+    font-family: "Syne Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    color: black;
+    font-size: 1.75vw;
+    text-align: center;
+    font-family: "Syne Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    margin: 30px;
+}   
+.main-container{
+    width: 75%;
+    margin: 10px auto;
+    padding: 20 ;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+}
+.menu-principal{
+    max-width: 75%;
+    margin:0 auto;
+}
+.menu-principal ul{
+    margin: 0;
+}
+.menu-principal li{
+    display: inline-block;
+}
+.menu-principal a{
+    background-color: #22221F;
+    color: white;
+    text-decoration: underline;
+    font-size: 2vw;
+    font-weight: 400;
+    border-radius: .75vw;
+    padding: .2vw 3vw;
+}
+
+li a{
+    font-size: 1.75vw;
+    text-decoration: none;
+    color: #dd1cd0;
+}
+ul{
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    list-style-type: none;
+    padding-left: 0;
+    margin:20px;
+    line-height: 1.5;
+}
+
+
+img{
+    max-width: 80%;
+    margin: 20px;
+}
+
+
+form{
+    margin: 0 auto;
+    align-content: center;
+    padding-bottom: 50px;
+}
+label{
+    color: black;
+    font-size: 1.75vw;
+    text-align: center;
+    font-family: "Syne Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+button{
+    background-color: #dd1cd0;
+    color: black;
+    border: .2vw solid white;
+    padding: .8vw 1.5vw;
+    border-radius: .75vw;
+    font-size: 1.75vw;
+    text-align: center;
+    font-family: "Syne Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    margin: .75vw;
+}
+input{
+    color: #3f1cdd;
+    font-size: 1.75vw;
+    text-align: center;
+    font-family: "Syne Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    background-color: white;
+    border: .2vw solid black;
+    padding: .5vw 3vw;
+    border-radius: .75vw;
+    
+}
+input::placeholder {
+    color: #dd1cd0;
+    font-size: 1vw;
+    text-align: center;
+    font-family: "Syne Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0 auto;
+}

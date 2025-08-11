@@ -1,2 +1,2 @@
-# prograMona
-Repositório de projetos criados durante o PrograMona da PrograMaria
+Projeto de site iniciado em 14 de julho na Casa1, no segundo encontro do PrograMona
+Este site é a montagem do portifolio criado e organizado no projeto do figma (https://www.figma.com/design/oFhta6hZdYsZRGbHiid0cI/Portifolio-Adwo-Studio?node-id=2-39&t=XEt5R897gGAs5bNj-0)
